@@ -1,2 +1,2 @@
 # adatalab
-test server for adatalab
+A test server for a data lab.
