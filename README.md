@@ -1,2 +1,2 @@
 # adatalab
-A test server for a data lab.
+A test server for animal data lab.
